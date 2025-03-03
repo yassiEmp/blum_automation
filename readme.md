@@ -1,0 +1,1 @@
+this is a python code to play a game using ai automation the code look for a game window in realtime and recognize the fleur.png anc click on it 
